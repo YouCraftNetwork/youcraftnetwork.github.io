@@ -6,5 +6,5 @@ CountActive = true;
 CountStepper = -1;
 LeadingZero = true;
 DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds.";
-FinishMessage = "";
+FinishMessage = "time.html";
 //]]>
