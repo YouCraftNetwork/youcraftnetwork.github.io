@@ -1,7 +1,7 @@
 //<![CDATA[
 TargetDate = "04/01/2016 10:00 AM";
 BackColor = "";
-ForeColor = "green";
+ForeColor = "black";
 CountActive = true;
 CountStepper = -1;
 LeadingZero = true;
